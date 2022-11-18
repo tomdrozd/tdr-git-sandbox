@@ -1,3 +1,5 @@
 Test main 1
 Test main 2
 Test main 3
+Test tdr-gittests 1
+Test tdr-gittests 2
